@@ -18,27 +18,27 @@
 /*　背景画像設定　*/
 
 .slider-item01 {
-    background:url(https://kohoku-h2a.github.io/top/test1.jpg);
+    background:url(test1.jpg);
 }
 
 .slider-item02 {
-    background:url(https://kohoku-h2a.github.io/top/test2.jpg);
+    background:url(test2.jpg);
 }
 
 .slider-item03 {
-    background:url(https://kohoku-h2a.github.io/top/test3.jpg);
+    background:url(test3.jpg);
 }
 
 .slider-item04 {
-    background:url(https://kohoku-h2a.github.io/top/test4.jpg);
+    background:url(test4.jpg);
 }
 
 .slider-item05 {
-    background:url(https://kohoku-h2a.github.io/top/test5.jpg);
+    background:url(test5.jpg);
 }
 
 .slider-item06 {
-    background:url(https://kohoku-h2a.github.io/top/test6.jpg);
+    background:url(test6.jpg);
 }
 
 .slider-item {
